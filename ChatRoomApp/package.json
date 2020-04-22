@@ -1,0 +1,22 @@
+{
+  "name": "chatroomapp",
+  "version": "1.0.0",
+  "description": "Build a Real Time Chat App With Node.js And Socket.io",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "keywords": [
+    "Nodejs",
+    "and",
+    "Socket.io"
+  ],
+  "author": "ccf19818030",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
