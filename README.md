@@ -1,6 +1,6 @@
 # ChatRoomApp
 Build a Real Time Chat App With Node.js And Socket.io
-本项目来自Youtube上面的一个视频，相关介绍参见我的CSDN博客：[使用Nodejs和socket.io创建一个实时的聊天应用](https://editor.csdn.net/md/?articleId=105696860)
+本项目来自Youtube上面的一个视频，相关介绍参见我的CSDN博客：[使用Nodejs和socket.io创建一个实时的聊天应用](https://blog.csdn.net/ccf19881030/article/details/105696860)
 
 ## 下载项目
 ```shell
