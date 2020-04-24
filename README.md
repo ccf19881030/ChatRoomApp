@@ -19,4 +19,4 @@ nodemon server.js
 ```
 
 ## 运行前端
-使用Google或者FireFox等支持Websocket的浏览器打开ChatRoomApp里面的index.html文件，既可以进行多个人的实时聊天。
+使用Google或者FireFox等支持Websocket的浏览器打开ChatRoomApp里面的index.html文件，即可以进行多个人的实时聊天。
